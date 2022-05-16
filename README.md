@@ -1,4 +1,4 @@
-# car-prices-poland
+# Car sales offers in Poland
 
 🚗 💸
 
